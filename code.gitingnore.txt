@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore sensitive files
+.env
+
+# Ignore SMTP credentials file (if any)
+credentials.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
